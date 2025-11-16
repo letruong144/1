@@ -1,0 +1,5 @@
+{
+  "name": "English Proficiency Quiz",
+  "description": "An interactive multiple-choice quiz application to test and improve English grammar, vocabulary, and pronunciation skills. Users can answer a series of questions and receive their score upon completion.",
+  "requestFramePermissions": []
+}
